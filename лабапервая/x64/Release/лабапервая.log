@@ -1,0 +1,22 @@
+﻿  Single.cpp
+  double.cpp
+  Array.cpp
+  Queue.cpp
+  Source.cpp
+  Tree.cpp
+  Stack.cpp
+  лабапервая.cpp
+  Table.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" завершилась с кодом 2.
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(32,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(33,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(53,18): warning C4133: =: несовместимые типы - из "node **" в "HT **"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(99,15): warning C4133: инициализация: несовместимые типы - из "HT *" в "node *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(189,29): warning C4133: =: несовместимые типы - из "node *" в "HT *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(197,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(176,11): warning C4133: инициализация: несовместимые типы - из "HT *" в "node *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(214,11): warning C4133: инициализация: несовместимые типы - из "HT *" в "node *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(258,20): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "void *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(257,19): warning C4133: инициализация: несовместимые типы - из "HT *" в "node *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(300,37): warning C4133: =: несовместимые типы - из "node *" в "HT *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.c(268,11): warning C4133: инициализация: несовместимые типы - из "HT *" в "node *"

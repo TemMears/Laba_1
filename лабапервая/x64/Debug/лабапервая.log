@@ -1,0 +1,25 @@
+﻿  лабапервая.cpp
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(138,13): error C2664: "void pushtable(HashTable *,char *,char *)": невозможно преобразовать аргумент 2 из "const char [6]" в "char *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(138,34): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.h(22,6): message : см. объявление "pushtable"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(138,13): message : при попытке сопоставить список аргументов "(HashTable *, const char [6], const char [8])"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(139,13): error C2664: "void pushtable(HashTable *,char *,char *)": невозможно преобразовать аргумент 2 из "const char [6]" в "char *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(139,34): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.h(22,6): message : см. объявление "pushtable"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(139,13): message : при попытке сопоставить список аргументов "(HashTable *, const char [6], const char [7])"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(140,13): error C2664: "void pushtable(HashTable *,char *,char *)": невозможно преобразовать аргумент 2 из "const char [6]" в "char *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(140,34): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.h(22,6): message : см. объявление "pushtable"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(140,13): message : при попытке сопоставить список аргументов "(HashTable *, const char [6], const char [4])"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(141,13): error C2664: "void pushtable(HashTable *,char *,char *)": невозможно преобразовать аргумент 2 из "const char [7]" в "char *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(141,34): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.h(22,6): message : см. объявление "pushtable"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(141,13): message : при попытке сопоставить список аргументов "(HashTable *, const char [7], const char [4])"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(142,13): error C2664: "void pushtable(HashTable *,char *,char *)": невозможно преобразовать аргумент 2 из "const char [7]" в "char *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(142,34): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.h(22,6): message : см. объявление "pushtable"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(142,13): message : при попытке сопоставить список аргументов "(HashTable *, const char [7], const char [4])"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(144,13): error C2664: "void delhashtable(HashTable *,char *)": невозможно преобразовать аргумент 2 из "const char [6]" в "char *"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(144,37): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\Table.h(25,6): message : см. объявление "delhashtable"
+C:\Users\Алина\Desktop\учеба\СЕМЕСТР 3\лабапервая\лабапервая.cpp(144,13): message : при попытке сопоставить список аргументов "(HashTable *, const char [6])"
